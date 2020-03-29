@@ -1,0 +1,901 @@
+date,county,state_name,fips,cases,deaths,county_code,state,locality,locality_original,CPV,CPV_2,CPV_3,CPV_4,CPV_5,CPV_50,CPV_6,GS_10,GS_10_2,GS_10_3,GS_100,GS_1000,GS_25,GS_25_2,GS_250,GS_250_2,GS_50,GS_50_2,GS_500,LD,LD_2,NESC,NESC_2,NESC_3,PC,PC_2,PC_3,PC_4,PC_5,PC_6,SD,SD_2,SD_3,SDO,SDO_2,SDO_3,SDO_4
+2020-03-01,Alameda,California,06001,1,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,Alameda,California,06001,1,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Alameda,California,06001,2,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Alameda,California,06001,2,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Alameda,California,06001,2,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Alameda,California,06001,3,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Alameda,California,06001,3,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Alameda,California,06001,3,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Alameda,California,06001,24,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,Alameda,California,06001,25,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,Alameda,California,06001,25,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Alameda,California,06001,29,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-13,Alameda,California,06001,29,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-14,Alameda,California,06001,29,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-15,Alameda,California,06001,37,0,001,CA,alameda county,alameda_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-16,Alameda,California,06001,40,0,001,CA,alameda county,alameda_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-17,Alameda,California,06001,49,0,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-18,Alameda,California,06001,53,0,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-19,Alameda,California,06001,57,0,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-20,Alameda,California,06001,67,0,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-21,Alameda,California,06001,87,0,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-22,Alameda,California,06001,127,0,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-23,Alameda,California,06001,139,1,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-24,Alameda,California,06001,151,2,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-25,Alameda,California,06001,156,2,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-26,Alameda,California,06001,199,4,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-27,Alameda,California,06001,241,4,001,CA,alameda county,alameda_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-03,Contra Costa,California,06013,1,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Contra Costa,California,06013,1,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Contra Costa,California,06013,1,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Contra Costa,California,06013,4,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Contra Costa,California,06013,4,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Contra Costa,California,06013,9,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Contra Costa,California,06013,9,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,Contra Costa,California,06013,9,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,Contra Costa,California,06013,9,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Contra Costa,California,06013,9,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,Contra Costa,California,06013,25,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-14,Contra Costa,California,06013,25,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-15,Contra Costa,California,06013,25,0,013,CA,contra costa county,contra_costa_county,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-16,Contra Costa,California,06013,34,0,013,CA,contra costa county,contra_costa_county,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-17,Contra Costa,California,06013,34,0,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-18,Contra Costa,California,06013,41,0,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-19,Contra Costa,California,06013,42,0,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-20,Contra Costa,California,06013,46,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-21,Contra Costa,California,06013,51,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-22,Contra Costa,California,06013,61,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-23,Contra Costa,California,06013,71,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-24,Contra Costa,California,06013,86,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-25,Contra Costa,California,06013,108,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-26,Contra Costa,California,06013,131,1,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-27,Contra Costa,California,06013,151,2,013,CA,contra costa county,contra_costa_county,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-01-26,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-27,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-28,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-29,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-30,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-31,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-01,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-02,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-03,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-04,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-05,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-06,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-07,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-08,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-09,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-10,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Los Angeles,California,06037,1,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Los Angeles,California,06037,7,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Los Angeles,California,06037,11,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Los Angeles,California,06037,13,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Los Angeles,California,06037,14,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Los Angeles,California,06037,14,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Los Angeles,California,06037,19,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,Los Angeles,California,06037,20,0,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,Los Angeles,California,06037,28,1,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Los Angeles,California,06037,32,1,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,Los Angeles,California,06037,40,1,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-14,Los Angeles,California,06037,53,1,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-15,Los Angeles,California,06037,69,1,037,CA,los angeles county,los_angeles_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-16,Los Angeles,California,06037,94,1,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2020-03-17,Los Angeles,California,06037,144,1,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2020-03-18,Los Angeles,California,06037,190,1,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2020-03-19,Los Angeles,California,06037,231,2,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-20,Los Angeles,California,06037,292,2,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-21,Los Angeles,California,06037,351,4,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-22,Los Angeles,California,06037,421,5,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-23,Los Angeles,California,06037,536,7,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-24,Los Angeles,California,06037,662,11,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-25,Los Angeles,California,06037,799,13,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-26,Los Angeles,California,06037,1216,21,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-27,Los Angeles,California,06037,1465,27,037,CA,los angeles county,los_angeles_county,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-02-10,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,San Diego,California,06073,1,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,San Diego,California,06073,2,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,San Diego,California,06073,2,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,San Diego,California,06073,2,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,San Diego,California,06073,5,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,San Diego,California,06073,9,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-14,San Diego,California,06073,10,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-15,San Diego,California,06073,40,0,073,CA,san diego county,san_diego_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-16,San Diego,California,06073,56,0,073,CA,san diego county,san_diego_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-17,San Diego,California,06073,61,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0
+2020-03-18,San Diego,California,06073,81,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0
+2020-03-19,San Diego,California,06073,105,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-20,San Diego,California,06073,131,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-21,San Diego,California,06073,159,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-22,San Diego,California,06073,205,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-23,San Diego,California,06073,230,0,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-24,San Diego,California,06073,242,1,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-25,San Diego,California,06073,297,2,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-26,San Diego,California,06073,341,3,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-03-27,San Diego,California,06073,417,5,073,CA,san diego county,san_diego_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,0,0
+2020-02-02,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-03,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-04,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-05,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-06,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-07,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-08,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-09,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-10,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,San Francisco,California,06075,2,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,San Francisco,California,06075,3,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,San Francisco,California,06075,5,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,San Francisco,California,06075,5,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,San Francisco,California,06075,11,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,San Francisco,California,06075,11,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-09,San Francisco,California,06075,16,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-10,San Francisco,California,06075,17,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-11,San Francisco,California,06075,17,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-12,San Francisco,California,06075,21,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-13,San Francisco,California,06075,26,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-14,San Francisco,California,06075,31,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-15,San Francisco,California,06075,37,0,075,CA,san francisco county,san_francisco_county,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-16,San Francisco,California,06075,43,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-17,San Francisco,California,06075,46,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-18,San Francisco,California,06075,51,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-19,San Francisco,California,06075,73,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-20,San Francisco,California,06075,79,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-21,San Francisco,California,06075,84,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-22,San Francisco,California,06075,111,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-23,San Francisco,California,06075,134,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-24,San Francisco,California,06075,152,0,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-25,San Francisco,California,06075,181,1,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-26,San Francisco,California,06075,226,2,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-27,San Francisco,California,06075,282,3,075,CA,san francisco county,san_francisco_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+2020-03-02,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,San Mateo,California,06081,1,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,San Mateo,California,06081,9,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,San Mateo,California,06081,9,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,San Mateo,California,06081,15,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,San Mateo,California,06081,20,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,San Mateo,California,06081,20,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-14,San Mateo,California,06081,32,0,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-15,San Mateo,California,06081,32,1,081,CA,san mateo county,san_mateo_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-16,San Mateo,California,06081,42,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-17,San Mateo,California,06081,64,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-18,San Mateo,California,06081,80,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-19,San Mateo,California,06081,89,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-20,San Mateo,California,06081,100,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-21,San Mateo,California,06081,110,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-22,San Mateo,California,06081,117,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-23,San Mateo,California,06081,142,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-24,San Mateo,California,06081,161,1,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-25,San Mateo,California,06081,165,5,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-26,San Mateo,California,06081,195,5,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-03-27,San Mateo,California,06081,239,6,081,CA,san mateo county,san_mateo_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,0,0,0
+2020-01-31,Santa Clara,California,06085,1,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-01,Santa Clara,California,06085,1,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-02,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-03,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-04,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-05,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-06,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-07,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-08,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-09,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-10,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,Santa Clara,California,06085,2,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,Santa Clara,California,06085,3,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,Santa Clara,California,06085,4,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,Santa Clara,California,06085,7,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,Santa Clara,California,06085,9,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Santa Clara,California,06085,11,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Santa Clara,California,06085,14,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Santa Clara,California,06085,20,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-06,Santa Clara,California,06085,24,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-07,Santa Clara,California,06085,32,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-08,Santa Clara,California,06085,37,0,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-09,Santa Clara,California,06085,43,1,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-10,Santa Clara,California,06085,45,1,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-11,Santa Clara,California,06085,48,1,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-12,Santa Clara,California,06085,66,1,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-13,Santa Clara,California,06085,79,2,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-14,Santa Clara,California,06085,91,2,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-15,Santa Clara,California,06085,114,2,085,CA,santa clara county,santa_clara_county,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+2020-03-16,Santa Clara,California,06085,138,4,085,CA,santa clara county,santa_clara_county,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0
+2020-03-17,Santa Clara,California,06085,155,5,085,CA,santa clara county,santa_clara_county,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-18,Santa Clara,California,06085,175,6,085,CA,santa clara county,santa_clara_county,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-19,Santa Clara,California,06085,189,6,085,CA,santa clara county,santa_clara_county,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-20,Santa Clara,California,06085,196,8,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-21,Santa Clara,California,06085,263,8,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-22,Santa Clara,California,06085,303,11,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-23,Santa Clara,California,06085,321,11,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-24,Santa Clara,California,06085,375,17,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-25,Santa Clara,California,06085,459,18,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-26,Santa Clara,California,06085,542,20,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-27,Santa Clara,California,06085,574,21,085,CA,santa clara county,santa_clara_county,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,1,0,1,1,0,0
+2020-03-06,Denver,Colorado,08031,2,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Denver,Colorado,08031,2,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Denver,Colorado,08031,2,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Denver,Colorado,08031,3,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Denver,Colorado,08031,4,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Denver,Colorado,08031,6,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Denver,Colorado,08031,9,0,031,CO,denver county,denver_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Denver,Colorado,08031,17,0,031,CO,denver county,denver_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Denver,Colorado,08031,23,0,031,CO,denver county,denver_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Denver,Colorado,08031,28,0,031,CO,denver county,denver_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Denver,Colorado,08031,28,0,031,CO,denver county,denver_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Denver,Colorado,08031,41,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Denver,Colorado,08031,45,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Denver,Colorado,08031,61,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Denver,Colorado,08031,79,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-21,Denver,Colorado,08031,98,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-22,Denver,Colorado,08031,125,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-23,Denver,Colorado,08031,148,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-24,Denver,Colorado,08031,176,0,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-25,Denver,Colorado,08031,214,3,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-26,Denver,Colorado,08031,262,3,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,Denver,Colorado,08031,312,3,031,CO,denver county,denver_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,District of Columbia,District of Columbia,11001,1,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,District of Columbia,District of Columbia,11001,1,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,District of Columbia,District of Columbia,11001,4,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,District of Columbia,District of Columbia,11001,4,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,District of Columbia,District of Columbia,11001,10,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,District of Columbia,District of Columbia,11001,10,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,District of Columbia,District of Columbia,11001,10,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,District of Columbia,District of Columbia,11001,16,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,District of Columbia,District of Columbia,11001,17,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,District of Columbia,District of Columbia,11001,22,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-17,District of Columbia,District of Columbia,11001,31,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-18,District of Columbia,District of Columbia,11001,36,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-19,District of Columbia,District of Columbia,11001,68,0,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-20,District of Columbia,District of Columbia,11001,77,1,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-21,District of Columbia,District of Columbia,11001,98,1,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-22,District of Columbia,District of Columbia,11001,116,2,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-23,District of Columbia,District of Columbia,11001,138,2,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-24,District of Columbia,District of Columbia,11001,183,2,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-25,District of Columbia,District of Columbia,11001,231,3,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-26,District of Columbia,District of Columbia,11001,267,3,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-27,District of Columbia,District of Columbia,11001,304,4,001,DC,washington dc,washington_dc,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-11,Miami-Dade,Florida,12086,1,0,086,FL,miami-dade county,miami_dade_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Miami-Dade,Florida,12086,2,0,086,FL,miami-dade county,miami_dade_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Miami-Dade,Florida,12086,8,0,086,FL,miami-dade county,miami_dade_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Miami-Dade,Florida,12086,8,0,086,FL,miami-dade county,miami_dade_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Miami-Dade,Florida,12086,13,0,086,FL,miami-dade county,miami_dade_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Miami-Dade,Florida,12086,23,0,086,FL,miami-dade county,miami_dade_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-17,Miami-Dade,Florida,12086,43,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-18,Miami-Dade,Florida,12086,77,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-19,Miami-Dade,Florida,12086,101,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-20,Miami-Dade,Florida,12086,124,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-21,Miami-Dade,Florida,12086,170,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-22,Miami-Dade,Florida,12086,228,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-23,Miami-Dade,Florida,12086,277,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-24,Miami-Dade,Florida,12086,365,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-25,Miami-Dade,Florida,12086,489,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-26,Miami-Dade,Florida,12086,653,0,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-27,Miami-Dade,Florida,12086,869,2,086,FL,miami-dade county,miami_dade_county,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-02,Fulton,Georgia,13121,2,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Fulton,Georgia,13121,2,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Fulton,Georgia,13121,2,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Fulton,Georgia,13121,2,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Fulton,Georgia,13121,2,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Fulton,Georgia,13121,4,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Fulton,Georgia,13121,5,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Fulton,Georgia,13121,5,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Fulton,Georgia,13121,6,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Fulton,Georgia,13121,6,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Fulton,Georgia,13121,6,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Fulton,Georgia,13121,6,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-14,Fulton,Georgia,13121,13,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-15,Fulton,Georgia,13121,20,0,121,GA,fulton county,fulton_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-16,Fulton,Georgia,13121,27,0,121,GA,fulton county,fulton_county,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-17,Fulton,Georgia,13121,33,0,121,GA,fulton county,fulton_county,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-18,Fulton,Georgia,13121,49,0,121,GA,fulton county,fulton_county,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-19,Fulton,Georgia,13121,68,2,121,GA,fulton county,fulton_county,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-20,Fulton,Georgia,13121,95,2,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-21,Fulton,Georgia,13121,100,3,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-22,Fulton,Georgia,13121,111,3,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-23,Fulton,Georgia,13121,152,3,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-24,Fulton,Georgia,13121,191,4,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-25,Fulton,Georgia,13121,204,4,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-26,Fulton,Georgia,13121,231,4,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-27,Fulton,Georgia,13121,347,12,121,GA,fulton county,fulton_county,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-01-24,Cook,Illinois,17031,1,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-25,Cook,Illinois,17031,1,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-26,Cook,Illinois,17031,1,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-27,Cook,Illinois,17031,1,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-28,Cook,Illinois,17031,1,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-29,Cook,Illinois,17031,1,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-30,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-31,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-01,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-02,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-03,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-04,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-05,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-06,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-07,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-08,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-09,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-10,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,Cook,Illinois,17031,2,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,Cook,Illinois,17031,3,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,Cook,Illinois,17031,3,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,Cook,Illinois,17031,4,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Cook,Illinois,17031,4,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Cook,Illinois,17031,4,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Cook,Illinois,17031,5,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Cook,Illinois,17031,6,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Cook,Illinois,17031,6,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Cook,Illinois,17031,7,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Cook,Illinois,17031,11,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Cook,Illinois,17031,17,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Cook,Illinois,17031,22,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Cook,Illinois,17031,27,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Cook,Illinois,17031,40,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Cook,Illinois,17031,51,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Cook,Illinois,17031,76,0,031,IL,cook county,cook_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Cook,Illinois,17031,76,0,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Cook,Illinois,17031,107,1,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Cook,Illinois,17031,179,1,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Cook,Illinois,17031,279,2,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Cook,Illinois,17031,412,3,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+2020-03-21,Cook,Illinois,17031,548,4,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-22,Cook,Illinois,17031,805,6,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-23,Cook,Illinois,17031,922,9,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-24,Cook,Illinois,17031,1194,12,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-25,Cook,Illinois,17031,1418,13,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-26,Cook,Illinois,17031,1904,18,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-27,Cook,Illinois,17031,2239,20,031,IL,cook county,cook_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+2020-03-14,DuPage,Illinois,17043,1,0,043,IL,dupage county,dupage_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,DuPage,Illinois,17043,1,0,043,IL,dupage county,dupage_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,DuPage,Illinois,17043,5,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,DuPage,Illinois,17043,26,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,DuPage,Illinois,17043,45,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,DuPage,Illinois,17043,54,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,DuPage,Illinois,17043,57,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-21,DuPage,Illinois,17043,68,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-22,DuPage,Illinois,17043,79,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-23,DuPage,Illinois,17043,95,0,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-24,DuPage,Illinois,17043,103,1,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-25,DuPage,Illinois,17043,131,1,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-26,DuPage,Illinois,17043,182,1,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-27,DuPage,Illinois,17043,199,6,043,IL,dupage county,dupage_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-11,Lake,Illinois,17097,1,0,097,IL,lake county,lake_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Lake,Illinois,17097,1,0,097,IL,lake county,lake_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Lake,Illinois,17097,2,0,097,IL,lake county,lake_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Lake,Illinois,17097,3,0,097,IL,lake county,lake_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Lake,Illinois,17097,3,0,097,IL,lake county,lake_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Lake,Illinois,17097,6,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Lake,Illinois,17097,7,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Lake,Illinois,17097,18,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-19,Lake,Illinois,17097,37,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-20,Lake,Illinois,17097,52,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-21,Lake,Illinois,17097,63,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-22,Lake,Illinois,17097,69,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-23,Lake,Illinois,17097,96,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-24,Lake,Illinois,17097,111,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-25,Lake,Illinois,17097,139,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-26,Lake,Illinois,17097,185,0,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-27,Lake,Illinois,17097,230,2,097,IL,lake county,lake_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-07,Johnson,Kansas,20091,1,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Johnson,Kansas,20091,1,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Johnson,Kansas,20091,1,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Johnson,Kansas,20091,1,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Johnson,Kansas,20091,1,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Johnson,Kansas,20091,4,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Johnson,Kansas,20091,4,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Johnson,Kansas,20091,5,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Johnson,Kansas,20091,6,0,091,KS,johnson county,johnson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Johnson,Kansas,20091,8,0,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Johnson,Kansas,20091,10,0,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Johnson,Kansas,20091,11,0,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Johnson,Kansas,20091,16,0,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Johnson,Kansas,20091,24,0,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-21,Johnson,Kansas,20091,25,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-22,Johnson,Kansas,20091,28,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-23,Johnson,Kansas,20091,32,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-24,Johnson,Kansas,20091,36,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-25,Johnson,Kansas,20091,46,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-26,Johnson,Kansas,20091,59,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-27,Johnson,Kansas,20091,66,1,091,KS,johnson county,johnson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-05,Middlesex,Massachusetts,25017,1,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Middlesex,Massachusetts,25017,1,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Middlesex,Massachusetts,25017,5,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Middlesex,Massachusetts,25017,10,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Middlesex,Massachusetts,25017,15,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Middlesex,Massachusetts,25017,41,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Middlesex,Massachusetts,25017,41,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Middlesex,Massachusetts,25017,49,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Middlesex,Massachusetts,25017,60,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-14,Middlesex,Massachusetts,25017,65,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-15,Middlesex,Massachusetts,25017,75,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,1,0,0,0,0,0
+2020-03-16,Middlesex,Massachusetts,25017,83,0,017,MA,middlesex county,middlesex_county,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0
+2020-03-17,Middlesex,Massachusetts,25017,89,0,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0
+2020-03-18,Middlesex,Massachusetts,25017,100,0,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0
+2020-03-19,Middlesex,Massachusetts,25017,119,0,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0
+2020-03-20,Middlesex,Massachusetts,25017,144,0,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,0
+2020-03-21,Middlesex,Massachusetts,25017,177,1,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-22,Middlesex,Massachusetts,25017,199,1,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-23,Middlesex,Massachusetts,25017,232,1,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-24,Middlesex,Massachusetts,25017,304,2,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-25,Middlesex,Massachusetts,25017,446,2,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-26,Middlesex,Massachusetts,25017,538,5,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-27,Middlesex,Massachusetts,25017,685,6,017,MA,middlesex county,middlesex_county,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0
+2020-03-02,Norfolk,Massachusetts,25021,1,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Norfolk,Massachusetts,25021,1,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-04,Norfolk,Massachusetts,25021,1,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-05,Norfolk,Massachusetts,25021,1,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-06,Norfolk,Massachusetts,25021,3,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-07,Norfolk,Massachusetts,25021,3,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-08,Norfolk,Massachusetts,25021,7,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-09,Norfolk,Massachusetts,25021,10,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,Norfolk,Massachusetts,25021,22,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,Norfolk,Massachusetts,25021,22,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Norfolk,Massachusetts,25021,24,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,Norfolk,Massachusetts,25021,24,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-14,Norfolk,Massachusetts,25021,28,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-15,Norfolk,Massachusetts,25021,31,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-16,Norfolk,Massachusetts,25021,36,0,021,MA,norfolk county,norfolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-17,Norfolk,Massachusetts,25021,43,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-18,Norfolk,Massachusetts,25021,45,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-19,Norfolk,Massachusetts,25021,52,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-20,Norfolk,Massachusetts,25021,64,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+2020-03-21,Norfolk,Massachusetts,25021,69,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-03-22,Norfolk,Massachusetts,25021,75,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-03-23,Norfolk,Massachusetts,25021,82,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-03-24,Norfolk,Massachusetts,25021,129,0,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-03-25,Norfolk,Massachusetts,25021,222,1,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-03-26,Norfolk,Massachusetts,25021,292,2,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-03-27,Norfolk,Massachusetts,25021,393,6,021,MA,norfolk county,norfolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,0,0
+2020-02-01,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-02,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-03,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-04,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-05,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-06,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-07,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-08,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-09,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-10,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Suffolk,Massachusetts,25025,1,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Suffolk,Massachusetts,25025,4,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Suffolk,Massachusetts,25025,4,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Suffolk,Massachusetts,25025,9,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Suffolk,Massachusetts,25025,10,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Suffolk,Massachusetts,25025,20,0,025,MA,suffolk county,suffolk_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Suffolk,Massachusetts,25025,20,0,025,MA,suffolk county,suffolk_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Suffolk,Massachusetts,25025,22,0,025,MA,suffolk county,suffolk_county,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Suffolk,Massachusetts,25025,26,0,025,MA,suffolk county,suffolk_county,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Suffolk,Massachusetts,25025,27,0,025,MA,suffolk county,suffolk_county,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Suffolk,Massachusetts,25025,31,0,025,MA,suffolk county,suffolk_county,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Suffolk,Massachusetts,25025,42,0,025,MA,suffolk county,suffolk_county,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Suffolk,Massachusetts,25025,42,0,025,MA,suffolk county,suffolk_county,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-18,Suffolk,Massachusetts,25025,51,0,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-19,Suffolk,Massachusetts,25025,72,0,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+2020-03-20,Suffolk,Massachusetts,25025,87,1,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0
+2020-03-21,Suffolk,Massachusetts,25025,108,1,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,0
+2020-03-22,Suffolk,Massachusetts,25025,126,2,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,0,0
+2020-03-23,Suffolk,Massachusetts,25025,154,2,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,0,0
+2020-03-24,Suffolk,Massachusetts,25025,234,2,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,0,0
+2020-03-25,Suffolk,Massachusetts,25025,342,2,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,0,0
+2020-03-26,Suffolk,Massachusetts,25025,448,3,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,0,0
+2020-03-27,Suffolk,Massachusetts,25025,631,3,025,MA,suffolk county,suffolk_county,1,1,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,0,0,0
+2020-03-10,Wayne,Michigan,26163,1,0,163,MI,wayne county,wayne_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Wayne,Michigan,26163,1,0,163,MI,wayne county,wayne_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Wayne,Michigan,26163,1,0,163,MI,wayne county,wayne_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Wayne,Michigan,26163,6,0,163,MI,wayne county,wayne_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Wayne,Michigan,26163,8,0,163,MI,wayne county,wayne_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Wayne,Michigan,26163,13,0,163,MI,wayne county,wayne_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Wayne,Michigan,26163,13,0,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Wayne,Michigan,26163,17,0,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-18,Wayne,Michigan,26163,23,1,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-19,Wayne,Michigan,26163,119,3,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-20,Wayne,Michigan,26163,216,3,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-21,Wayne,Michigan,26163,349,4,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-22,Wayne,Michigan,26163,477,5,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-23,Wayne,Michigan,26163,638,8,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-24,Wayne,Michigan,26163,873,13,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-25,Wayne,Michigan,26163,1122,21,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-26,Wayne,Michigan,26163,1389,26,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-27,Wayne,Michigan,26163,1810,37,163,MI,wayne county,wayne_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+2020-03-04,Bergen,New Jersey,34003,1,0,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Bergen,New Jersey,34003,2,0,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Bergen,New Jersey,34003,3,0,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Bergen,New Jersey,34003,3,0,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Bergen,New Jersey,34003,4,0,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Bergen,New Jersey,34003,5,0,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Bergen,New Jersey,34003,7,1,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,Bergen,New Jersey,34003,11,1,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Bergen,New Jersey,34003,13,1,003,NJ,bergen county,bergen_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,Bergen,New Jersey,34003,17,1,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-14,Bergen,New Jersey,34003,31,1,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-15,Bergen,New Jersey,34003,32,1,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-16,Bergen,New Jersey,34003,61,2,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-17,Bergen,New Jersey,34003,84,2,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-18,Bergen,New Jersey,34003,133,4,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-19,Bergen,New Jersey,34003,297,6,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-20,Bergen,New Jersey,34003,342,7,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-21,Bergen,New Jersey,34003,362,9,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-22,Bergen,New Jersey,34003,457,10,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-23,Bergen,New Jersey,34003,609,12,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-24,Bergen,New Jersey,34003,701,14,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-25,Bergen,New Jersey,34003,819,15,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-26,Bergen,New Jersey,34003,1206,21,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-27,Bergen,New Jersey,34003,1505,28,003,NJ,bergen county,bergen_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-09,Hudson,New Jersey,34017,1,0,017,NJ,hudson county,hudson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Hudson,New Jersey,34017,1,0,017,NJ,hudson county,hudson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Hudson,New Jersey,34017,1,0,017,NJ,hudson county,hudson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Hudson,New Jersey,34017,1,0,017,NJ,hudson county,hudson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,Hudson,New Jersey,34017,3,0,017,NJ,hudson county,hudson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-14,Hudson,New Jersey,34017,5,0,017,NJ,hudson county,hudson_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-15,Hudson,New Jersey,34017,10,0,017,NJ,hudson county,hudson_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-16,Hudson,New Jersey,34017,19,0,017,NJ,hudson county,hudson_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-17,Hudson,New Jersey,34017,24,0,017,NJ,hudson county,hudson_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-18,Hudson,New Jersey,34017,34,0,017,NJ,hudson county,hudson_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-19,Hudson,New Jersey,34017,55,0,017,NJ,hudson county,hudson_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-20,Hudson,New Jersey,34017,66,0,017,NJ,hudson county,hudson_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-21,Hudson,New Jersey,34017,97,0,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-22,Hudson,New Jersey,34017,126,0,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-23,Hudson,New Jersey,34017,190,0,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-24,Hudson,New Jersey,34017,234,3,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-25,Hudson,New Jersey,34017,260,4,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-26,Hudson,New Jersey,34017,441,4,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-27,Hudson,New Jersey,34017,594,4,017,NJ,hudson county,hudson_county,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+2020-03-05,Clark,Nevada,32003,1,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Clark,Nevada,32003,1,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Clark,Nevada,32003,1,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Clark,Nevada,32003,2,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Clark,Nevada,32003,2,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Clark,Nevada,32003,2,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Clark,Nevada,32003,5,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Clark,Nevada,32003,8,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Clark,Nevada,32003,16,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Clark,Nevada,32003,16,0,003,NV,clark county,las_vegas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Clark,Nevada,32003,16,0,003,NV,clark county,las_vegas_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Clark,Nevada,32003,35,1,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Clark,Nevada,32003,42,1,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Clark,Nevada,32003,69,1,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Clark,Nevada,32003,74,1,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Clark,Nevada,32003,126,2,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-21,Clark,Nevada,32003,126,2,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-22,Clark,Nevada,32003,126,2,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-23,Clark,Nevada,32003,151,4,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-24,Clark,Nevada,32003,249,6,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-25,Clark,Nevada,32003,249,6,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-26,Clark,Nevada,32003,350,10,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,Clark,Nevada,32003,443,10,003,NV,clark county,las_vegas_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Nassau,New York,36059,1,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Nassau,New York,36059,4,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Nassau,New York,36059,4,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Nassau,New York,36059,5,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Nassau,New York,36059,17,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Nassau,New York,36059,19,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Nassau,New York,36059,28,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Nassau,New York,36059,41,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Nassau,New York,36059,51,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Nassau,New York,36059,79,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Nassau,New York,36059,98,0,059,NY,nassau county,nassau_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Nassau,New York,36059,109,0,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Nassau,New York,36059,131,2,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Nassau,New York,36059,183,2,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Nassau,New York,36059,382,3,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Nassau,New York,36059,754,4,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-21,Nassau,New York,36059,1234,7,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-22,Nassau,New York,36059,1900,7,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-23,Nassau,New York,36059,2442,9,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-24,Nassau,New York,36059,2869,9,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-25,Nassau,New York,36059,3285,17,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-26,Nassau,New York,36059,3914,19,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-27,Nassau,New York,36059,4657,27,059,NY,nassau county,nassau_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-01,New York City,New York,NA,1,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,New York City,New York,NA,1,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,New York City,New York,NA,2,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,New York City,New York,NA,2,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,New York City,New York,NA,4,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,New York City,New York,NA,5,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,New York City,New York,NA,12,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,New York City,New York,NA,14,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,New York City,New York,NA,20,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,New York City,New York,NA,37,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,New York City,New York,NA,52,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,New York City,New York,NA,96,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,New York City,New York,NA,155,0,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,New York City,New York,NA,269,1,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,New York City,New York,NA,330,5,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,New York City,New York,NA,464,7,-1,NY,new york city,new_york_city,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,New York City,New York,NA,645,10,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,New York City,New York,NA,1339,20,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,New York City,New York,NA,2468,22,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,New York City,New York,NA,4408,43,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-21,New York City,New York,NA,6211,60,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-22,New York City,New York,NA,9045,99,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-23,New York City,New York,NA,12305,131,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-24,New York City,New York,NA,14905,192,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-25,New York City,New York,NA,20011,280,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-26,New York City,New York,NA,23112,365,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-27,New York City,New York,NA,25399,450,-1,NY,new york city,new_york_city,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+2020-03-06,Rockland,New York,36087,2,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Rockland,New York,36087,2,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Rockland,New York,36087,2,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Rockland,New York,36087,4,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Rockland,New York,36087,6,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Rockland,New York,36087,6,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Rockland,New York,36087,7,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Rockland,New York,36087,9,0,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Rockland,New York,36087,12,1,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Rockland,New York,36087,13,1,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Rockland,New York,36087,16,1,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Rockland,New York,36087,22,2,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Rockland,New York,36087,30,2,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Rockland,New York,36087,53,2,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Rockland,New York,36087,101,3,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-21,Rockland,New York,36087,262,3,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-22,Rockland,New York,36087,455,3,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-23,Rockland,New York,36087,592,5,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-24,Rockland,New York,36087,671,5,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-25,Rockland,New York,36087,1069,7,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-26,Rockland,New York,36087,1197,7,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-27,Rockland,New York,36087,1457,8,087,NY,rockland county,rockland_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+2020-03-04,Westchester,New York,36119,9,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Westchester,New York,36119,17,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Westchester,New York,36119,33,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Westchester,New York,36119,69,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Westchester,New York,36119,81,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Westchester,New York,36119,97,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Westchester,New York,36119,107,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Westchester,New York,36119,120,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Westchester,New York,36119,147,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Westchester,New York,36119,157,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Westchester,New York,36119,178,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Westchester,New York,36119,195,0,119,NY,westchester county,westchester_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Westchester,New York,36119,219,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Westchester,New York,36119,379,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Westchester,New York,36119,537,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Westchester,New York,36119,797,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-20,Westchester,New York,36119,1091,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-21,Westchester,New York,36119,1387,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-22,Westchester,New York,36119,1873,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-23,Westchester,New York,36119,2894,0,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-24,Westchester,New York,36119,3891,6,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-25,Westchester,New York,36119,4691,6,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-26,Westchester,New York,36119,5944,8,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-27,Westchester,New York,36119,7187,10,119,NY,westchester county,westchester_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Dallas,Texas,48113,2,0,113,TX,dallas county,dallas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-11,Dallas,Texas,48113,3,0,113,TX,dallas county,dallas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-12,Dallas,Texas,48113,8,0,113,TX,dallas county,dallas_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-13,Dallas,Texas,48113,9,0,113,TX,dallas county,dallas_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-14,Dallas,Texas,48113,11,0,113,TX,dallas county,dallas_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-15,Dallas,Texas,48113,14,0,113,TX,dallas county,dallas_county,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-16,Dallas,Texas,48113,14,0,113,TX,dallas county,dallas_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-17,Dallas,Texas,48113,23,0,113,TX,dallas county,dallas_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-18,Dallas,Texas,48113,34,0,113,TX,dallas county,dallas_county,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-19,Dallas,Texas,48113,56,1,113,TX,dallas county,dallas_county,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+2020-03-20,Dallas,Texas,48113,74,1,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-21,Dallas,Texas,48113,95,1,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-22,Dallas,Texas,48113,132,2,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-23,Dallas,Texas,48113,159,2,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-24,Dallas,Texas,48113,169,5,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-25,Dallas,Texas,48113,169,6,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-26,Dallas,Texas,48113,303,7,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-03-27,Dallas,Texas,48113,367,7,113,TX,dallas county,dallas_county,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,1,0,0,1,0,0,0
+2020-02-28,King,Washington,53033,1,0,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,King,Washington,53033,4,1,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,King,Washington,53033,11,3,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,King,Washington,53033,15,6,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,King,Washington,53033,22,10,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,King,Washington,53033,33,11,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,King,Washington,53033,52,11,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-06,King,Washington,53033,59,12,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-07,King,Washington,53033,72,16,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-08,King,Washington,53033,91,18,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-09,King,Washington,53033,117,21,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-10,King,Washington,53033,191,23,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-11,King,Washington,53033,235,27,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0,0
+2020-03-12,King,Washington,53033,271,28,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0
+2020-03-13,King,Washington,53033,329,33,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0
+2020-03-14,King,Washington,53033,389,36,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0
+2020-03-15,King,Washington,53033,421,38,033,WA,king county,king_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0
+2020-03-16,King,Washington,53033,489,44,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-17,King,Washington,53033,518,47,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-18,King,Washington,53033,563,57,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-19,King,Washington,53033,693,61,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-20,King,Washington,53033,794,68,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-21,King,Washington,53033,935,76,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-03-22,King,Washington,53033,1036,77,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-03-23,King,Washington,53033,1166,88,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-03-24,King,Washington,53033,1278,95,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-03-25,King,Washington,53033,1360,101,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-03-26,King,Washington,53033,1579,111,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-03-27,King,Washington,53033,1830,127,033,WA,king county,king_county,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,1
+2020-01-21,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-22,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-23,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-24,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-25,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-26,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-27,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-28,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-29,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-30,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-01-31,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-01,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-02,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-03,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-04,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-05,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-06,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-07,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-08,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-09,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-10,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-11,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-12,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-13,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-14,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-15,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-16,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-17,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-18,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-19,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-20,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-21,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-22,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-23,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-24,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-25,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-26,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-27,Snohomish,Washington,53061,1,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-28,Snohomish,Washington,53061,2,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-02-29,Snohomish,Washington,53061,2,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-01,Snohomish,Washington,53061,2,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-02,Snohomish,Washington,53061,3,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-03,Snohomish,Washington,53061,5,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-04,Snohomish,Washington,53061,8,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2020-03-05,Snohomish,Washington,53061,17,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-06,Snohomish,Washington,53061,18,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-07,Snohomish,Washington,53061,26,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-08,Snohomish,Washington,53061,36,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-09,Snohomish,Washington,53061,45,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+2020-03-10,Snohomish,Washington,53061,61,0,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-11,Snohomish,Washington,53061,69,1,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-12,Snohomish,Washington,53061,107,3,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2020-03-13,Snohomish,Washington,53061,132,3,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0
+2020-03-14,Snohomish,Washington,53061,154,3,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0
+2020-03-15,Snohomish,Washington,53061,175,3,061,WA,snohomish county,snohomish_county,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0
+2020-03-16,Snohomish,Washington,53061,199,3,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0
+2020-03-17,Snohomish,Washington,53061,265,4,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0
+2020-03-18,Snohomish,Washington,53061,309,5,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0
+2020-03-19,Snohomish,Washington,53061,347,6,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0
+2020-03-20,Snohomish,Washington,53061,384,7,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,0,0
+2020-03-21,Snohomish,Washington,53061,446,9,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-22,Snohomish,Washington,53061,480,10,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-23,Snohomish,Washington,53061,518,10,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-24,Snohomish,Washington,53061,613,15,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-25,Snohomish,Washington,53061,633,15,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-26,Snohomish,Washington,53061,778,18,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
+2020-03-27,Snohomish,Washington,53061,913,23,061,WA,snohomish county,snohomish_county,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0
